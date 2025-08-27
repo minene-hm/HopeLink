@@ -1981,7 +1981,7 @@ input:focus {
 }
 
 .sidebar-toggle {
-    position: fixed;
+    position: absolute;
     top: 20px;
     left: 20px;
     z-index: 1001;
